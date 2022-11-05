@@ -1,0 +1,9 @@
+button.c:33:5:isButtonRESETPressed	4	static
+button.c:41:5:isButtonINCPressed	4	static
+button.c:49:5:isButtonDECPressed	4	static
+button.c:57:6:subKeyProcess_buttonRESET	4	static
+button.c:60:6:subKeyProcess_buttonINC	4	static
+button.c:63:6:subKeyProcess_buttonDEC	4	static
+button.c:67:6:getKeyInput_buttonRESET	8	static
+button.c:90:6:getKeyInput_buttonINC	8	static
+button.c:114:6:getKeyInput_buttonDEC	8	static
